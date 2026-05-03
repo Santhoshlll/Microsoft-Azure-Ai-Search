@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "SEARCH_SERVICE": "your-search-service-name",
+    "SEARCH_INDEX": "your-search-index-name",
+    "SEARCH_API_KEY": "your-search-api-key"
+  }
+}
