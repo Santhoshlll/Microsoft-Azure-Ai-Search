@@ -2,7 +2,7 @@
     "name": "hr-search-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Santhoshlll.github.io/Microsoft-Azure-Ai-Search",
+    "homepage": "https://santhoshlll.github.io/microsoft-azure-ai-search",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
         "@testing-library/react": "^13.4.0",
