@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/microsoft-azure-ai-search/static/css/main.e6c13ad2.css",
+    "main.js": "/microsoft-azure-ai-search/static/js/main.b9dca0a4.js",
+    "index.html": "/microsoft-azure-ai-search/index.html",
+    "main.e6c13ad2.css.map": "/microsoft-azure-ai-search/static/css/main.e6c13ad2.css.map",
+    "main.b9dca0a4.js.map": "/microsoft-azure-ai-search/static/js/main.b9dca0a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b9dca0a4.js"
+  ]
+}
